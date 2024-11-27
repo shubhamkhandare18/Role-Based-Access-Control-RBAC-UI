@@ -1,3 +1,4 @@
+[Screenshot 2024-11-27 153724](https://github.com/user-attachments/assets/f257a962-440c-4334-8b6e-94e1ca300370)
 RBAC Admin Dashboard
 
 A Role-Based Access Control (RBAC) Admin Dashboard built using React, allowing administrators to manage users, roles, and permissions in a user-friendly interface. The application demonstrates essential RBAC functionality, including dynamic permission assignment, user management, and role handling.
