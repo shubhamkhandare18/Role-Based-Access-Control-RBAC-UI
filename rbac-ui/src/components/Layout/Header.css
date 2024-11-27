@@ -1,0 +1,40 @@
+header {
+  height: 60px;
+  background-color: white;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+  font-size: 1.25rem;
+  color: #2c3e50;
+}
+
+header .actions button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+}
+
+header .actions button:hover {
+  background-color: #2980b9;
+}
+
+@media (min-width: 1024px) {
+  aside {
+    width: 260px;
+  }
+
+  main {
+    padding: 30px;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+  }
+}

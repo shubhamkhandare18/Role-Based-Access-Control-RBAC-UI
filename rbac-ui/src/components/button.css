@@ -1,0 +1,18 @@
+button {
+  transition: background-color 0.3s ease-in-out;
+}
+
+a:hover,
+button:hover {
+  background-color: #16a085;
+}
+
+button,
+a {
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #1abc9c;
+  transform: scale(1.05);
+}
